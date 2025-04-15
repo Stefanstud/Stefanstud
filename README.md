@@ -1,5 +1,5 @@
 # 👋 About Me:
-I'm a Computer Science graduate currently pursuing my Master's in Data Science at EPFL. My interests lie in applied machine learning, with a focus on NLP, information extraction and retrieval systems. I'm also interested in graph learning and signal processing, which are areas I have explored through research projects, courses and competitions.
+I'm a Computer Science graduate currently pursuing my Master's in Data Science at EPFL. My interests lie in applied machine learning -- I am naturally curious so you will probably find various projects in my profile ranging from NLP, large language models to computer vision and graph neural networks. 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
